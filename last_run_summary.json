@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-10T11:59:59.501204+00:00",
-  "total_channels": 1656,
+  "timestamp": "2026-10-11T12:12:39.462039+00:00",
+  "total_channels": 1434,
   "new": 0,
-  "removed": 0,
-  "changed": 854
+  "removed": 62,
+  "changed": 795
 }
