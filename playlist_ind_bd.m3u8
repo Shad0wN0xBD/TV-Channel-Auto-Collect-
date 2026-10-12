@@ -2232,21 +2232,15 @@ http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="IN",Sony Aath
 http://103.165.93.31:8095/sonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="IN",Sony Aath
-https://cloudplay-sonyliv.pages.dev/aath.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="IN",Sony Aath
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="IN",Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Entertainment Television
-https://cloudplay-sonyliv.pages.dev/sethd.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Entertainment Television
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Entertainment Television
 http://103.151.60.162:2122/play/a01o/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Marathi
-https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Marathi
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Max 2
@@ -2259,10 +2253,6 @@ http://103.151.60.162:2122/play/a014/index.m3u8?hls
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Pal
-https://cloudplay-sonyliv.pages.dev/pal.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Pix
-https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png" group-title="IN",Sony SAB
@@ -2270,39 +2260,19 @@ http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 1
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 1
-https://cloudplay-sonyliv.pages.dev/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 1
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 2
-https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 2
-https://cloudplay-sonyliv.pages.dev/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 2
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="IN",Sony Sports Ten 3 Hindi
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="IN",Sony Sports Ten 3 Hindi
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="IN",Sony Sports Ten 3 Hindi
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="IN",Sony Sports Ten 4
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="IN",Sony Sports Ten 4
-https://cloudplay-sonyliv.pages.dev/ten4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="IN",Sony Sports Ten 4
-https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 5
-https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Sports Ten 5
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Wah
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Wah
-https://cloudplay-sonyliv.pages.dev/wah.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Yay!
 http://103.165.93.31:8095/sonyYay/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="IN",Sony Yay!
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="IN",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="IN",Spondon
