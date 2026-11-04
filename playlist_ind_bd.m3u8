@@ -2261,8 +2261,6 @@ https://fta.ektv.in/live/610/master.m3u8
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="IN",NH BollyFlix
 https://jmp2.uk/stvp-IN46000140Q
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png" group-title="IN",NH BollyGold
-https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" group-title="IN",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" group-title="IN",NH Tamil Gold
@@ -3057,8 +3055,6 @@ http://103.151.60.162:2122/play/a032/index.m3u8?hls
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" group-title="IN",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="IN",Star Movies
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="IN",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" group-title="IN",StarPlus
@@ -3289,6 +3285,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHB00KG.png" group-title="IN",Total TV Haryana
 https://cdn.pishow.tv/ott/live/1522/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUWEnc5.png" group-title="IN",Travelxp
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUWEnc5.png" group-title="IN",Travelxp
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUWEnc5.png" group-title="IN",Travelxp
